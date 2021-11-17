@@ -2,7 +2,6 @@
 - 👩‍🎤 Sou especialista em Marketing de Performance!
 - 🌱 Sou estudante de desenvolvimento Full Stack, com foco em Front-end.
 - 🧶 Hobbies: Fazer crochê, tomar café, ler, jogar Wow, passear com a Cacau 🐕 e ficar com minha família.
-- 📝 Minhas reflexões em <a href="https://focovictoria.notion.site/Foco-Vict-ria-31b15383f1de4d2187c0f015dea6f3fe" target="_blank"> Foco, Victória </a> 
 
 ##
 
