@@ -1,7 +1,6 @@
 ## Oiii eu sou a Victória Cavalcante
-- 👩‍🎤 Sou especialista em Marketing de Performance!
-- 🌱 Sou estudante de desenvolvimento Full Stack, com foco em Front-end.
-- 🧶 Hobbies: Fazer crochê, tomar café, ler, jogar Wow, passear com a Cacau 🐕 e ficar com minha família.
+- 🌱 Sou estudante de desenvolvimento, com foco em Front-end e QA.
+- 🧶 Hobbies: Escrever, crochetar, ler, tomar café, jogar.
 
 ##
 
